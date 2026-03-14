@@ -1,0 +1,35 @@
+ol{
+    font-family: 'Arial', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    line-height: 1.5;
+}
+h1{
+    font-family: 'Arial', sans-serif;
+    font-size: 100px;
+    color: #00ff00;
+    text-align: center;
+}
+p{
+    font-family: 'Arial', sans-serif;
+    font-size: 50px;
+    color: #ff0000;
+    line-height: 1.5;
+    text-align: center;
+}
+body{
+    background-color: #000000;
+    margin: 20px;
+}
+label{
+    font-family: 'Arial', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+}
+a{
+    font-family: 'Arial', sans-serif;
+    font-size: 30px;
+    color: #00ffff;
+    text-decoration: none;
+    text-align: center;
+}
